@@ -59,17 +59,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.utdining.app.ico",
     "slug": "status-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "50.31%",
+    "uptimeDay": "50.31%",
+    "uptimeWeek": "50.31%",
+    "uptimeMonth": "50.31%",
+    "uptimeYear": "50.31%",
     "time": 364,
     "timeDay": 364,
     "timeWeek": 364,
     "timeMonth": 364,
     "timeYear": 364,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-11-27": 0
+    }
   },
   {
     "name": "Supabase",
