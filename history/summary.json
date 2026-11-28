@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 298,
-    "timeDay": 298,
-    "timeWeek": 298,
-    "timeMonth": 298,
-    "timeYear": 298,
+    "time": 332,
+    "timeDay": 366,
+    "timeWeek": 332,
+    "timeMonth": 332,
+    "timeYear": 332,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1061,
-    "timeDay": 1061,
-    "timeWeek": 1061,
-    "timeMonth": 1061,
-    "timeYear": 1061,
+    "time": 1086,
+    "timeDay": 1111,
+    "timeWeek": 1086,
+    "timeMonth": 1086,
+    "timeYear": 1086,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 436,
-    "timeDay": 436,
-    "timeWeek": 436,
-    "timeMonth": 436,
-    "timeYear": 436,
+    "time": 411,
+    "timeDay": 385,
+    "timeWeek": 411,
+    "timeMonth": 411,
+    "timeYear": 411,
     "dailyMinutesDown": {}
   },
   {
@@ -59,18 +59,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/status.utdining.app.ico",
     "slug": "status-api",
     "status": "down",
-    "uptime": "50.31%",
-    "uptimeDay": "50.31%",
-    "uptimeWeek": "50.31%",
-    "uptimeMonth": "50.31%",
-    "uptimeYear": "50.31%",
-    "time": 364,
-    "timeDay": 364,
-    "timeWeek": 364,
-    "timeMonth": 364,
-    "timeYear": 364,
+    "uptime": "0.01%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
+    "time": 336,
+    "timeDay": 307,
+    "timeWeek": 336,
+    "timeMonth": 336,
+    "timeYear": 336,
     "dailyMinutesDown": {
-      "2026-11-27": 0
+      "2026-11-28": 417,
+      "2026-11-27": 1106
     }
   },
   {
@@ -84,11 +85,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 99,
-    "timeDay": 99,
-    "timeWeek": 99,
-    "timeMonth": 99,
-    "timeYear": 99,
+    "time": 136,
+    "timeDay": 173,
+    "timeWeek": 136,
+    "timeMonth": 136,
+    "timeYear": 136,
     "dailyMinutesDown": {}
   }
 ]
